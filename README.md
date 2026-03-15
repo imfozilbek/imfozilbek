@@ -45,6 +45,11 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/rksy1dFNUOyXVQ9OpiYOzGYMi8N9wHNaG7Tm7MME36LI4HkgIrGQZRAp8LLwXJtYdzEc6zH3VhhFSNk-1Bkd3TbGclTAwo7k9EYDmfQAR8-JweqyCd0muormVml0DuNFhdoppz2eMgqPRSte9c24BIRjS-PNLT_UWChRYV1GPkmxShCDUfhHuFlCInjR-IwSA5jQxzbtbXFmRUlfdfGtWcF8H9jaAurhsZ5WmqdopMdjGOF1hJyI-8yBCsFX6YVr61kzpIliklBY_LF9Si19dgIQfIDI7bUPrCqMd-_Mk_JgI0vMOiK_DrWJM0z1KcY0fa56MxzSUHt-XsBTXC5uqg.jpg" width="100%" /></a>
+<p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
+<a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
+</td>
+<td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/Sc1vwRn22M9aX2UZChHkilRvOskyDygVdrSfc0hboFML9te1GVJ-mO4dfzobNeql0CAgdE4WamTXEV_dWD90ourAhAxXOwjqcJQqidxnj8pQuM6R3yOvRmaisD6Fuqb42rvi0cPkelm7D7m-gcI-jmkxsQvOuKS_WSioY8MzJE6Ccp5z6pEr_yXHAvstkDThi1GKlnONhCbiVVeqBHVJvxr1XrkWg-j4g391EWIl7TbGMHZF091H8IRdQ7fC-nbZw4nIxWP-4n_50vkQVl_CIHgbIxTywkt_TI30CXG3T4oFXC8M97HYGX_5dXjeeCIjvLuxFIjA3zehQKbHvjglsA.jpg" width="100%" /></a>
 <p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
 <a href="https://t.me/moyroadmap/82">Read more &rarr;</a>
@@ -53,13 +58,13 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>🚀 Payme усиливает инженерный блок и приглашает сильных Senior Backend и Tech Lead инженеров! Если хочешь влиять на...</b></p>
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/D6QIxvvOrhDZWvC4dP33-00BInBI4Wpp_lbJK8Xg8sIwe988tQLgXnNIDNO5LqJzMxvqb7ikoDJzTBYB5sZbpzkAVY_kJw_GoSMezH6GA8o45X6lb8PEUm6xzv0VR--PGW1CtsO7kj2NeUCuBJmVSzO72g8IsF0D-6HTei6tywLlcPvkAgMbSmPJ9jGUOtU212es6ZouXLeORkwTriDZTl2PuIrFBxU0_LB_d8eRcvS0rGyboKaDg-v_FMypR8Y7tejcfMY1DGZjTZBolomLXm_FvFqMLMTR_dx5gxat8-hPO6k7KPS1RYHDwrZippLAmrwHbGax8kaYM1Cf2TLzUQ.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/llJM3Ml1OIt2oPgyxdolKLF2MlJEH9Kz7tnXHimLsH6K-CT44A6ORFBa10ahIG_-vOqqu8CH-6elWGuzECS1kiFxZuswr8Kzc-6tgTydFJvraPRwwthVMfMPQyJjuncqXup8IM5naARpm7T6dNw9Z8sUt5PEs2_8-d5wYXOzZXCTLAL8_oNmxyG1t_YyF23ZX9rNM9v1MYqKUkdfMt31ZwXkXtDO9BAfAqC2myj22A82Ykpevv8LB7n3-aC7-jOEY9Z1W6iXGRsdcT2fLd5k9_fccaPvriYA92cMBlK4xk1vfWvSU3xQ1Hn91U7cdPOhy0seRr02XDUT7hKp4SWGpw.jpg" width="100%" /></a>
 <p><b>Почему будущее — за ContextOps-подходом ИИ давно перестал быть просто инструментом — он становится частью процесса. Но...</b></p>
@@ -70,12 +75,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>В Монголии, в пустыне Гоби, строят лагерь, где туристы смогут прожить «как на Марсе». Проект называется MARS-V — и...</b></p>
 <a href="https://t.me/moyroadmap/78">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <p><b>Упреки — странная штука. Ты вроде просто хочешь, чтобы тебя поняли, а выходит — будто обвиняешь. Не из злости, а из...</b></p>
 <a href="https://t.me/moyroadmap/77">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/G_FQbMwa0imTMSkb8twkCAD_bptVreVBVpKyoMMCXLm9HxDzyQu9dVXwJkQgynwP809tLlb-m6FaUa8J4Rzgzn8scZeX8o377tlKsfx2JZlxZsUEdqfjatAbmAVhybKQ4MejWjTLg8cxFclgTZPEAsW6sRqvqHMwUNHk0O52dn4Xke0K0UKNeHq8Sda2B-5XH5_OF4A3_aI7iOM5R4drpLiBYEjka-XnDw1gFm-O5FlRA84-mTtdvZORNrOfHRgfWf3Nj77CsfyM2mm15E5eCKMU8nCipWrvlv-69Rp8yAtyoQ79Sjnsh2lDeDjwNrVVX-lLrOpvnBz3LTdTH2dBjQ.jpg" width="100%" /></a>
 <p><b>Ko‘plab startap asoschilari aytishlaricha, hozir ularning loyihani katta qismini Sun'iy Intelekt yozyapti. Dasturchilar...</b></p>
@@ -84,10 +89,6 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <td width="33%" valign="top">
 <p><b>Нейронки рулят)</b></p>
 <a href="https://t.me/moyroadmap/75">Read more &rarr;</a>
-</td>
-<td width="33%" valign="top">
-<p><b>Код не стоит ничего Ценно не то, кто его написал, а кто им владеет — то есть может менять его в предсказуемые сроки без...</b></p>
-<a href="https://t.me/moyroadmap/74">Read more &rarr;</a>
 </td>
 </tr>
 </table>
