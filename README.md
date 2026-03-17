@@ -61,7 +61,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/MUVL5qt2sfDVr-t_XVqX6iMld29KJPpW9MYqxKlXr_WJWU8bbd7xKT5_H-o5yfwzmESzKVCY5UfCfK-s2R3fhEFZMPS1Y-zWEQGnvOGu-HGvqct1H5jVbUm0Y8iXAPC8msBRnHTQ5Z79PYkplgnE5ZCvWte49_IGVJ2B0q1zJfDSSWWPDdXikfsWSl_bXCc0Thw6tJiSTFOUgwzli_NsQJjoKBaofD9JchhT-qkDhMVQbgyDD7vG273qHqaA2oKxXnrzm_udcEN7nVnWtnDDlR6YDTS1hDJi-dm_kwAcnXFXwXIBr4RKv_r0J3Dwao7Ht6vsKteuQsLlmG-7VaZMJg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/sP1lNp2Nscuo-4SXk1R4BFJYzvma8EcIsJojDjqOhFdfVYr8u4NLMUtRg8qwb4cLJiMR8Exyi_Pgqu13wxsAdifgv-sn3b6vz74yMsVvfTJ6Ga6eKiCt9_zftwE0Fh5JJW4vckYD1WkAFC9sFplw5kdgEcIXk8uwDHmfyJAUc714SOI_DQqY5XqPba3J_vdUXhI_e0wxrVzdWvwdDuMJLhO_M8dYHoI_10bDFVLBeg92U7yWjomiHbNwLZFW_OZ8Zq4juiIPWOjEZH8-gt5v0dlc_I2pyd9Jknfwh1MUJw_hWc4oFbWHCGdVBg6VfugiRaJwdulx_hrlYmyV2nZRDA.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
