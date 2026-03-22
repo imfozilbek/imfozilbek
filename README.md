@@ -82,7 +82,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/77">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/EvY8v9fD82JaiLfWbI1kS7jJYUH005Ix_UWnI2oowJa3RgZX6bebOadoXoKSx9xoI52e9QT39ZCUFHmTGEj0IPOGRbLnqDA0FWKAOye4RaqiCyb82_SHCdI3TGGwgrfqQZR3jnyPK-Dvi-VRF7oNQpPtt1Gcs8UF26aHpD8dKg53AevFkIqj4AcSt7PzOWsYNRhe7dgrO1UCTLKMA9cGRpW2S1jGkNvcVp0Nt5kHJDBtflCfBWfbesP-ZcsC2vaBoLyOJHb7kHcjvn79dxOZwNK9ucLc3vNtbKctG5qw12GjTgkRy_UtTmZQTR_1cTFFJgWRZ-3Gu3vCT0DGjAOSZQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/ZuE4JbSW8BsEvbBgWO6eotMMEr8LJJAXB_G5W2JMd4loGXUvKdF6XCKNNKowNMbiPLtDLVfEN2lBsoww1ajDaozjn0TefyjqNzowgJLLgPOHuz0did_Aak3n0NPseH4xnu-eTw7Xo5vB-rjD61vPE-9AhWRD86NPGgVyztPr_1BqCBdcKRQ7kuh6oSauXtzC43FGCV3dCgavsuHvlbIiHm_oIFimcg_i2kYDoxng9XPF6NCSAmkWj5wWBx-QpTIcR7sUD3Yq2-13VGP_X_RsWVsliIdjImsRqCysdGlVrZf6P9CVkRNIWmwB60laLYMWgFYSTs9FUMx3IPrlt1K1dg.jpg" width="100%" /></a>
 <p><b>Ko‘plab startap asoschilari aytishlaricha, hozir ularning loyihani katta qismini Sun'iy Intelekt yozyapti. Dasturchilar...</b></p>
 <a href="https://t.me/moyroadmap/76">Read more &rarr;</a>
 </td>
