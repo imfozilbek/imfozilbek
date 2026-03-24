@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/S7KwrQhfyKgd5FYj06P-2iqvh3pBdhbjZLMB4Iq-LRnNa6V6LkFkWiPlrTpEbvP8nHTGfcJPCCZfnUV5gs8Pz8KiQ0fEUaj-gtJCyKIN7zM32O1ezTiYAYb1ChAoX9isKyLfF8Rt1vJPPmDPll4hwd5F0xvXpGG208fnJpaO3HNbeCoj4r_4tWQVrXkP5bg1ETf-Ndk15a90CdvGUNBQKCKaOUxZ_lpnaGIYnqCoZPV68bRQ-ha664FwJY5YxgrbZgq5n-8fdLbB7_-KO6mn7sKImBNOGo-TbiAJMAql6T-E9lhe-bI8ABkEjBnvXMeTDL4QLk0qA7GZB2Y4aLwWDw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/BS18HdTVLj5ZZBE1mJ7H4vLxGDMSjC6RKYQwx388RbIvo0CB73lifBtGJ51fv30GHpt5xDsgAHzi0Vs6K3cArKt62wFCuFiSzXvjIdJ8hUjRaGWIy09ac-fD12QeRTMT9vv0HleYm_qVHCV62HKemfiBaan0JIIWPRbZIBZK5IGo1vReX8sq30_gjFtcAHaUrWiERlv5RcTG1yBGIn2qrXz03zoxKztj-wjDF8-7Ygvi_TAfwPu56iPkR5pS_mkfkRAbWx16BsQkLDJ9yVgf2QG_opeIhzTMCdIQYRHAucq0ZtUhev2a4W7aAA9oACKIg_ih_FQQTQ9EfmcpI_rNOA.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
 </td>
@@ -66,7 +66,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/oJ680YG_pDLLPZMq3oWsemEu9Ir1Ed2A2Ai6idXyFCaE2w10HaITmYI_cHC97e-oZZ4eKYsW2vWZEG9a9QXsFB4GlSUiTDqsAvFoKjZgR9mlE0tglUzTx4EGtenK3SZOg9tPQcYv_u2pVuD4dZ8aBD8PqygtweVNjdDNYj0mNxBP2uASuL8NhRfw5aaacrVPPOo7K4eZQbZ7xN4V8KVg1mB_KBhsGAKfLKsI6LrYbNKAF06ya31zTzmW6hpzE-4tARpsO0DB5155uovQetjSkyTugsC-YGgAFybyur1aiN4dJPaXNHxa27qWHMUjCM0DGx57_M21pMJqGqNvZ4cStA.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/rCi5gSVu_m0yx5L9zC-QrZlZq09rpUhGGNGQSpnK7DHiBdHqnVr3fhvwIo-s-zuOWsYpQgshn9LSpsjzC4ua3gndoe28N67I9ApvRX93b5pS6NSNLiIPyNNOQthEN2ULYY6TBFueTkfZPPTbTeW7bR-6bwG6CiPRlz2DNvg1PN7KeZW_wm1pXUa3KHDp9z3lBsctwzTcy5SzV9P8k0IbkBmZ6oJM_4mFn_ckhVhG9OTCHyq2m8cNrdIKHc9KRfaBUrNidkk2IpjU6YukDFQGkaf2-RSd9el_kyRuC0GFNZn1zqjQobJ3gnehvw-sKWD39O-tU3e1HjEVnegeA9tSHQ.jpg" width="100%" /></a>
 <p><b>Почему будущее — за ContextOps-подходом ИИ давно перестал быть просто инструментом — он становится частью процесса. Но...</b></p>
 <a href="https://t.me/moyroadmap/79">Read more &rarr;</a>
 </td>
