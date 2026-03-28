@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/hs49fDl1eduQSqugj_lBpJcl5hX0F4bA48sDNmnswD2sT98EbePcoCQ2eCAtRiYeCQljQ3vt6tdBD1TlC3aHQK5EDOyDtDPbJBsrKbaaQlQvx2xOwMdab4TWNNgYEXQTdEmZ7XXN813WYbvO3UBHNgJih3vdLfXxQk-zLNDW-HTujgXjRdqnEK7DJAnodUDw3J8qOgCRt5F1Q3TLs-hw4CMjIGrFCwzCvUhyGqDHB_2gcfhwV38YPgV1x8V1JZsA1S8OilRqdKCvLQCn-I8I41CqyqyoiBgUTRQsRljHrRuaiCX2GmzaC_07WniL5GqcDKlEImU17CoBkplTxuLkpw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/VsPAjEJutpHn8HdHf-JlhmGQ-sqmBjOol3un1u6WStm1L2a0mu-gqMdx4WCALu0Z00U6TQxhGr40sKvUNK2rXvjW5JTUEnD4_5npjJ4YBYtAsOjNLZ0sXrUHbHiaZFmmKllAA6bXIxWGV2B7I1YqaHzIttl7QaorH0MJe4JsCa3jm3ciZbHTUZCqg910aXcMx2lwzN9vUTXRuWkez8Aptw_PR-Vk_gkljrA76iYbNYYjTAkTVEwOKGQ2s5wdbPVG20sWy2cPoOJz0Zfc6X8vMWULY5T5T-jKwrfa4HmdqrBcZBTbG15ZZKz6y8ZObtK_XwTpkwif3TCEyjRUZy_wYQ.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
