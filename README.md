@@ -78,7 +78,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/PF98k57j2eCE9AYHuobDjXRRzTPE75vm3OpbU2nIcZAPTkUzrnyRV_i4qb7QcSTUbMn-X8t7sKwI9v6Mmoa6pJSsFW_zac2KhIgXpRYr-NTDmW1VXfJHy-7ugp2DHy55IldlHKlqzhyzpU3y48MKSR_VF1IViiMu5GCBDMZ1WW84t36hZYDyqeXOWXNHNVBvGlTys0OI0UeCD-N1gCY5imW9L5oDcohCtopmgywgSRYjAn6gsSx3fXpgECk55lFbCmtrCHmh0Kmp5p3QBfolcEW_Xp45TOu7FeKXVSOUP4YKa2EnO0_JIEUFHDhpcSoBYAsVvRo19MTYqsfFYPnV7g.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/KgWT0HGwOGyfIptkWWv0S9cjlWDT6eH8UoiCotqozePFDMLEIUT-EZPvaqV6I_AtMoKxQdf0ASLj3umFzJU5mtu4-1LHCMkR8lIWCcNWFrQRlYpgLLt_9kOe-bsOXX9SIxTbAYQBI4Yebhas2QYC0d5eNmR0V6Py2Q9cga3S8wo4Zd9gM6LYdR1XnfxYOfEIN8gPQ5g6lQv5WNDH8-2AyKvZL2H1rb4NFcL4ixHvnP0nyAkHD2sm58pzeqQxFSyhYoZFC1MzfiGHCD7LfOFTTS9QYi5UpWUsB8Wranth2-UX_E9-9aKx6BHTMlUWhetmkLoQfPGZdTzPlrfmFGwIzg.jpg" width="100%" /></a>
 <p><b>В Монголии, в пустыне Гоби, строят лагерь, где туристы смогут прожить «как на Марсе». Проект называется MARS-V — и...</b></p>
 <a href="https://t.me/moyroadmap/78">Read more &rarr;</a>
 </td>
@@ -87,7 +87,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/77">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/g9xrOfOs-oLk-HfZFX9PCjFWVxrWYguYAbY6W_4es_vkzHo1q8wM5Fw4tOSWSEMXYC5V43Ipd1Ft73GZfF_Xc8RQzWsdkM-fQKPAB-zJjwH6ERrkBMKg0BvOdnxPc-2A5uyBpoN6sCKwttBoZdCZTbNn4DSGQp8TF6DdPbJf0PK9oTqIpbM6eA-z7_sectO83PdhrWNGqYWfm-0OjxllqZtQOHuK9u05ViQhscx22p9HebjZMEQS-ymBwRC7ipG7qU2msdb0jTK51jFsOi-a6FZYTcef3NwlqExtWzugXiaETMVXtuzJHr4ANJVa7hClvk-fzRBXGPVSWIbtJXMRaw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/DtVpl0RLXHI-K5RfHb4uqtovcxlUl_IAYzrqqgdi5I3qdkSOtm6C4p64SnXvF6Dr7vJPuzw7VoJhp86qXrPKSPHjLRhYXVvTAyhFvG0bE7oa1TCwtU-nhn9ZKpObn8Y522LZYy4ZGvCOfiOZ-jx3MQUcHGcRZOoLg3zlkl36QWLVwbsNVDMpdCW_Dou7vS4rLi5JK5pci1XpI-gTpzdZErwr9V4_hUqyPhNxHCa1Nrzk-xD9hZlgLA5lNrKWhrJnH-fGVYlFl_t9j61BJaooUqGva2cbtRZl52TnYMaMNDm-RJpqBaoo0nOvMN3OR92t55LC4UEdxOzSpQxAuhAMhw.jpg" width="100%" /></a>
 <p><b>Ko‘plab startap asoschilari aytishlaricha, hozir ularning loyihani katta qismini Sun'iy Intelekt yozyapti. Dasturchilar...</b></p>
 <a href="https://t.me/moyroadmap/76">Read more &rarr;</a>
 </td>
