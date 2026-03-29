@@ -66,7 +66,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/YbWtiqH13ZUo41ZOT-cwJKOV9n0fQOi7C98GMhe3PFpq7q4a7Tl1SwZWeP58SWLGrb2MihAkFMXhvU0Xe3bvDUeuKzwP4Tk367ekjmoBY4FkOnpEwjCKfmhiViJUsP4dJt6_Q7OELFefgRxT8GgWQtFQNX9MYBoosMNlTTzGZEPFB2K1oVmO8GNDRuasfJlscYG6C7M0xQCTS4DZaEyRIH1kZvxFjpwOKmrXCtmG1ofqxJftwVALsZzfnwZRd4uUV3izBvrIEKB9ZchxFEy7ccPb_qTIb755AEqjvk_1TfME6XFM_tLSTNB5MZs2K1aerUeRLxuAs1UJSJbfS1-Gnw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/jw1BwzsB-i_FE_WpOuGBBzejaUnmpSTbKKXLTsf5Kanhpv-0EzcP4ezOS8npTxEArL2HGtY_tzASLJBsb2y4aVcunGGMxaT1sxesb0xPH4fFFm2nYDwCgWC0kL_kWXJjR781eyyt1I2Msh6krP-x2Yr8jtclRRdVbZ8y_-QoiFb6HXFDkd7oVqq5UMSCLHWGd_UR9EdFLxqeUKzp9AQTYa0MBs4aCi6el5AbiDu05d0gBHvGpwXW0E7PfGww7t8PBzFOnT0APo4_v-L23EAdieNQLPR88MpREGhMDgklCW5KF-7AXf9fkSzO70WNEUX7qzNZGzXrzyNU4gslGjWKgQ.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
@@ -87,7 +87,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/77">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/KloYCquZ5IoiYApid-4Gu-0bfMeI9xtoydruFYJWyVttKk4LBqIuVZFm6o4Ftqd2-OpQVLbnnVpC2DlP6V57rhWTnii79ggctNPG6xqdGcb0bJoTUbeKJPaf3a8lMAjrgKZnj77PUOaCY-xp-wMRSU6Uy8UPKenc1PbWzQvjv2sBYScLMQUERQnqPPALfRpEi7aotKVYib1BBLJnzbo1yI8lSrl6wsxWJ8Ek54jn4aAAsAB1tHN6kGmPmlHHmyInYqoVotpQeu_0yQsIS_bewHTw83sGhIGInzKcaSaIk6rKZJ2C8IkOJjm8dG975o6vxGIaz0s2H1iG1XPwFwk6cQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/f800pN1u2gTArmSatzye1GBUDqR6CLTxNp3zXYoXocNirUWAILIirGmHQAwiRRJRHy7K57s38a96dZ3gCFsn_Jt9sxH5LkGNInoYY7tp58HIgkZL89jMvi3aq7ULhxrLgUm5z7rkXiNFb4nVsY6RV3eJn_dBkusy0LnYK1i7dhdTF4P4OjfNbQr0sk6cW2VNG1ndg5XwhrMi0aOSMSifoqWw3Rym3PBqQ14UmdaucM-dfz0wT4b-8EsJ15BpHOKwczNsDoF8YELqLQfdrKXnxCSdz_jBb6yxnuBRZFBAnuztIWmJmoLQzCSxXf89Py4oAdJRUJWIjTDxEQDM-an_LQ.jpg" width="100%" /></a>
 <p><b>Ko‘plab startap asoschilari aytishlaricha, hozir ularning loyihani katta qismini Sun'iy Intelekt yozyapti. Dasturchilar...</b></p>
 <a href="https://t.me/moyroadmap/76">Read more &rarr;</a>
 </td>
