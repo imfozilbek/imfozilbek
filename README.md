@@ -78,7 +78,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/KgWT0HGwOGyfIptkWWv0S9cjlWDT6eH8UoiCotqozePFDMLEIUT-EZPvaqV6I_AtMoKxQdf0ASLj3umFzJU5mtu4-1LHCMkR8lIWCcNWFrQRlYpgLLt_9kOe-bsOXX9SIxTbAYQBI4Yebhas2QYC0d5eNmR0V6Py2Q9cga3S8wo4Zd9gM6LYdR1XnfxYOfEIN8gPQ5g6lQv5WNDH8-2AyKvZL2H1rb4NFcL4ixHvnP0nyAkHD2sm58pzeqQxFSyhYoZFC1MzfiGHCD7LfOFTTS9QYi5UpWUsB8Wranth2-UX_E9-9aKx6BHTMlUWhetmkLoQfPGZdTzPlrfmFGwIzg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/I8RmZJhGqmE18cxk1xbW2X1zXJDMqaKGvYBnuidFbS23qV44L_iLcqafR6CwfZYDKMZrm4BhPYt3grRuNS4yHdCF8RXg9_V4GtpQPlQejYrNztvrGVT9poZded7MIn-dgFTLbKGJ0nVT48koWUR83osaY8U_bDCwQXnfneYXg--qDNlY0AYMzoC9K2Yy6Eufh8zjo1xVWbaXRESVHfYlE6eMxcsYT4bXIuS5AGLUHl3XpqAgtspYPiDcCgHclTTjBt67nmEGQ5RIcNyiYjV_lDPWyo4w5rrDpQy92OK4m744-ovGg1CsJQ69pwqvKVNuvbmf1Lx7pu-e755oA2aLKw.jpg" width="100%" /></a>
 <p><b>В Монголии, в пустыне Гоби, строят лагерь, где туристы смогут прожить «как на Марсе». Проект называется MARS-V — и...</b></p>
 <a href="https://t.me/moyroadmap/78">Read more &rarr;</a>
 </td>
