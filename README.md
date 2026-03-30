@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/m_m2c_tBfnS8BEwEZB-ea4tHlyvxmIYsqiLKMAec6LcMcVzHytfDSN_Fnc4zlmxBWtgQzebyRguy8UgPkedvHBWaoZzYxeBcHm6Dg235pS_kq8j_OdACxKFn9TZ76vsh1zzY_q7SsV884IbrMrxNAHC1kEUa1uqcUTSimqysJSBC3rGN5Ok_m8qAhaCDVQMYKmQC1r7NygkdZEzs3tydiYnmT_olps0emg-aJIgJ0kZ2O9t9bIH9m3e6xUAgzSRzeWTvbnMAsVG9dtg2au1dG09Svg69FWQDwGSp3pbQy5RThvGOHtDzAvRdt_DBsBZsvXACjU7gPKdZe7BM9-J0Mw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/tUY68Knd8rsAhhHNibf0lscA6VCdI3NNQUn69nLTF-04xLRAarbJmAYu3ARAqI3jJ1P5uSDvvGgfjgszVJbq83NJS3Y3zqr6ei252L-GugzxNPoVXke4SeAz_wkqNh01Pn2gaPWhG7GWwMZAkEo7pnUZ933zYmYcM69BUZegXgFHUuHNewuzyhAJnZ3QJ21R1bKWvtM7fvtXoFfG6kmBCQAmDQiwink7X4cnt3CXXck19wil3idCuFikODn3dm35eC2nJYNeMd8w2SxMEqiAOtmygrYVse3Nclzh3tHzB1eju1N2RYiBt8y4AxZw7AVyP5PPiQmcS7ywq9kbae2K4A.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
@@ -66,7 +66,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/jw1BwzsB-i_FE_WpOuGBBzejaUnmpSTbKKXLTsf5Kanhpv-0EzcP4ezOS8npTxEArL2HGtY_tzASLJBsb2y4aVcunGGMxaT1sxesb0xPH4fFFm2nYDwCgWC0kL_kWXJjR781eyyt1I2Msh6krP-x2Yr8jtclRRdVbZ8y_-QoiFb6HXFDkd7oVqq5UMSCLHWGd_UR9EdFLxqeUKzp9AQTYa0MBs4aCi6el5AbiDu05d0gBHvGpwXW0E7PfGww7t8PBzFOnT0APo4_v-L23EAdieNQLPR88MpREGhMDgklCW5KF-7AXf9fkSzO70WNEUX7qzNZGzXrzyNU4gslGjWKgQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/eBDQYJg7rRUmoDsro-X3g4jNywzpwW0BtUmVhVIsxSt-DrGxpzXuWeqYeUJV1KsvxUoM02-pT695jJyB3ectf1EJWDoCnmNAR9pSSwXUnxerglNcULI4ku7idOkStl3X3GroYdpq9mXgTNlk5izlh8J0Hgy5Gu4cWjBPG41wjsXZMe5c9S0-oN8vM62jwDdYBMBtFB4PNgnm0-o15AuY282H5vyifk8tAcCDDtvu4g1DxRoO8mG10Y6Tqb3UoR6RxcQqNg4Nv5Qy6kPrF0wgizR5RrAz2YlpWRbxR6Uj3uxadxG-UPA8RWUj3S8RghaWWKJXGibVdruMt081Eike_w.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
