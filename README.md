@@ -66,7 +66,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/fe-CytK0SM9qZVshKSzz5wDrw2Dl2CxWVw4saG_F26-UScpA3SoAh-gJC4ikXXbPgtPckbNR7nx_OdNk14l4PfRNLzQeC1Por3hjldag39I7ht5jU0PiWjsoEGgqMzAYGwmC8gkv0jormG4koondq6uscSHJYuBFcnnTXOScGuYIygf-1uisYiNNTIauwkyrEJstWzTCwbOCnp9T3x7qpBmV61mvgJFJGGh19xt9STXC3BrLW_RojvkMq_thSae2AaW-9PFOtASSpBrqOGP8bSy3gbQ8pJoVwNyMwtf7cd7HNdMhe8NLwF3sDl7QxDtT-2YdhOp7NHVVdhnu1HRZEQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/YNh23zvvgJTNYlBVkfSjkAAlN0rVhEvarAW9Cvf3tIFfsQoCowdmd1Z5dx57M93S2w77id99dtt_3YdYT0jIIA2ccxP299LgMlu9ASSrxWq0VSN-z9pJG1msgsWXOd3nmeAbaK7nSIdHCswzMwFyuhZhRmaya0vZmTwOaL6p_M-JhiV3rvyPItd-CWbZAr-r7ChXT5fPOEr48y3UfC3wHeDph9mLjV0Q-mGeCrJi4PBakNpwtRu5khJNr1PWEIe8exg8L_v8TU4MS9pAiKv0nJIlwIsTSDX7LgoLvaoefUX7FEjYsZc_WlwRnAZFh3AH2sS6yFBmaxXhbXD5Fnp2sQ.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
@@ -78,7 +78,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/vXCvDX5ze8pLo2SmlviTnlvkfqQprD0_84PeDX1lIWV2Rlu3q4IQM2VxMXYq22aZljdpxYI9BYBcSrh71LBkz0X-x3Yp8ydBdwtklKzl5Ee-TwjV6FdevSz_R23wliIDMulJ18DEwRfJSw6PxRFoeYgCBB_sjJElMYItaIthIuNbQyd2k7qPt7kQ0fz6az1srqIecmRkKs95j9K8Wv-lfx_R4bxVHPGg2F-DUOGOoLNoKxOXGQQXHFbDbJWQ75NuQBef0LbW6JGrL7BJQp6W5S4Q5ZHppG30dc52_mZRfQc2Yy0WhLFcWRYcqj4bPrferCCWiEi0XOEhMerGr4RVKg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/aN25j7VQI5c8kyCEhynRppU9j68X2Ob9TWaNMWCh3oZZTxg84C_lnRDs-OOoceDso3Ahx0bD-QLXdLC53H0_5IZy0QFCFDiFAIuyDDWF3JxPyIdHtWvnwILYTW9t7cjiV89IgXjf70vvgoKDqXN3UXzZuD_TFcLotZq37-4rzcXfq-8aGv7yFMNUtr7A0D6PXO79iHL-v2EKjVs_07H-D8Wytg8q3So1LTid-sB669BKXL4u2q6jdUuBWrmeEl0R6qi2HA6eCHZ4mLp2Sjwu_vuCEkrMcQy2jbNeOf9DZcPoWvLMCSUbIc8r8ly5k1mrkTwCldJiOQ436p0T0rk7mw.jpg" width="100%" /></a>
 <p><b>В Монголии, в пустыне Гоби, строят лагерь, где туристы смогут прожить «как на Марсе». Проект называется MARS-V — и...</b></p>
 <a href="https://t.me/moyroadmap/78">Read more &rarr;</a>
 </td>
