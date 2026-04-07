@@ -45,17 +45,17 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/tKjA8Q4rREIdlUIen4akLqwTkyL8TOEFPW-xzWwYLGV6NZVKjJo0uNPflaDCYKBGLZ4_bCF8gpoYQZ1HEicbfCdzEGwWnZlfai5LNG1Atn47FQqfH9DssTPne2BixQc7EymtxnNYL2CPd8GGb5MkgNz0Gzx7Ng72HXiRvE2NnZNhawB-BQFIZhvcGB4EWd5ghLRoHDQ6q6-KNWYs4gzYhVmfNe1eIPaGExZ37hqDoEwdM1knYMXyyE0phPQt00EPZ1nxpqxR1vmWkNeldi0oQOYYF1yPLuaYsLGclUwRTijm0EyTOAtkpSROKS4dKAFsLhgEzA8ey023sHC64g1LXQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/heOgc9KdSOKAeyIsjL-62bRxPUecGQJNnx0UvimL7w0KItTRYXgmPB5r6ipIIijQvrQYMclZNNW1wC2lT_cF6tr4LXnS8INqAGpkiy0hqZ543S98aqBSeWRFgfSFGyiIkNLvpVcPVK6nz8UEOyJasIY2kTlHSYCQwjD9A1lHrPgQpzFALMHdgdm4h7ilfE5w4yC74Chle3Adra1Q6YItd1XJGoIcFOfW9RdyMVVqFbqVE4US6X8zSdx2dBaA5WysRJLw94Jkiq9SvKrTkprdWCsGudrb1jx_5MEkrrmuvT4nuNNAIhuqVvrMCPce_TsKTqDPTV5OR-Wq5nz-fL5GXw.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/s53V_bv3by4pwOdb29oEqWkWTlOtVmp8Tb28q78gQL463mIgrCwt0xxEOAj14Bme7u0zbCaXN47wBwXp6Rt5pwqzkOhvGP1qW9ij1juKjz65stDabhkmyWlgbpksPK5QyBQLkijADxgBoXjdT3HQzcMFZDUi_02n-ISY7dWqWnEfpy8vGT-3pEQeSDMQGRCbYolsfeoqf2POwc7K5Dy8KxTgkQc3nvLIzsj5l5tzvYgCxfuex00NCbdUkStAvJlChdG8JwL8VBI7AMZiDxut-HMMVxMWUtk0hz43ldkcQX6E6ic8nSC3MTogwHrbe8Jk_ZTGfeQLL6rQ2dCpFaaV2w.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/prW-K4jKMLUuNOgHwSep2MSzeSPCZ7eCvvYS2PfA_Ct2sOKE5txOPXgZZVnQKnaFBr_01HBn3WjvStx9rEPGAHhRn2YmlOekL5ms4Z2VqDqoGoo_ar1fF_7TMfcYvo2SOzU7WRcq8mNjJZJCYxSjp5czBuP9w8HlFkKdZQIM5GwjMe1EcejrWk3q3qGhvpwBAMFo6IVUH9P85JgDwWqZd0k12d1oBEWNAvkMe-yZcZhwjxTFck2p_5ZPHKj1na578Ztdf7wtdK1HpZsEBxyWlUVTg-UDDYS6O55ln7nXN9-zfFZy0-R1_7Tvp5ke54lDzwAbXbxEgdsu36q3jlOmiw.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/jaw_BVY6R-TCAk7DEEa-o3FFwMCupK5xDVYL07OniHULQltUlbeXpU83cbQNWc69e23AcazLKqA-Yg72AtnNIOZMthT1BtPYp_RoeNHjVBGhj5HS-P0YppdTPFvsKaBBruZzGMUzuEzISd5nl3GBD4E9k06EqVKPXB9D5BUHbEBkv0s0mjH6k0Ks3RZ2FNTVXTIGuzyb84zeMq3d_N-jnjv_ZPBuIC7jqS3eQ5oFZFGa-HUBRBqIy2o0DArnhTa77mblFrU5tEnAzhFbnka0U-RKqtENdjFJCMbhZ2MLmw374Yh0I0UnA-wUNILlzLkpd2U7ZNAzCn1se_BzK7jftg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/GvrM3v9beanHfEXt1jpU4IvsJhej_FbJcQJAR7uuLNwFdf-wnqdsl5uGScLz0qTyGqaXduc0Vt8wO7-Zw2sUjgJq41taKid1hrBZIPv_lWMWcyZT2Cl2lvFmTj_EAtv7FpsdDb6ULIBGjAdG-4d5erBlqB71MGiwgmGuNF3rnOtM6KULvZr_4uYW9STZtXDGV9tkidMHyv529mYj93mbR3DrEs7s07CH1FpBvBzyMEffn2WClM_e_BfMkynn7nhjUOjG6_I2mU11ebFb1vfv9E4ADnV6BIRg9eh7uLuAA6-S-Kvl7mrTjOAphDbPFk3LjFiijk2xnIbqiNohx6IuCQ.jpg" width="100%" /></a>
 <p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
 <a href="https://t.me/moyroadmap/82">Read more &rarr;</a>
 </td>
@@ -71,14 +71,14 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/enQ1_l2QTNCGYINdgGkArbopGrxIRubgGdnby-IqunTg2I_J59xs5PIVteP0cxKFkwfHqvtBjV8ZVZ5BLY_gaWbe1GMe0bRxL4pm2KYpMcC19-vgsbmOZGOH6TPYYcJJCKMLkLICjQfWwd0_4cBIGz3Bd9PvH6jZO8EItmgRkkLijoUFyqTynGn-3Y2mLC02CaRk_0zoV3dznxfM5POn2QNip8pvMwHoOXYINfGBDVCx46nwZo9WonoWLrAsE59wnH2_dYYs7YkkzMG6DzzsyvA57EyZ_InVpaErhnNS74SfMa2nKfKGe5PRGfsXE6X-GYvqPAKJEHJhzcW0IbX6JQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/bzshRJ6NpWcVfTuB8k4dYSuSTPQDs8_nyKign57Kmwl-twNjumBPjLMgwwc-suIi3wpv2SYUDhaiVDcKLCUJwqdsnbLyNyjSHDFQb4RH59Tb44jaCvWm-tdNdAE6P6CW-HdeTTKucKkPB5k8CWgyDujqk6LdgfBUstqG46hUQ9kbJMeYNh3PufKkR0UQKSdV0EObmyAsJCD-DihNwfAvVQkEmN_JAHS-n2F_UmvvU2fnPZm2ilNEfyDnLQGM20B5rDI6ByoJ4pwWy4565Jkco1Xrd9q71tNEPCx1Kiz7Gg8xm1NrXfCsOCQAFm8hcd1Dgc0HjBYhFlnoVzmDE7JC9Q.jpg" width="100%" /></a>
 <p><b>Почему будущее — за ContextOps-подходом ИИ давно перестал быть просто инструментом — он становится частью процесса. Но...</b></p>
 <a href="https://t.me/moyroadmap/79">Read more &rarr;</a>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/VIJ0RBmxDFvAsiHHUaxoEk6RBeDLKLdAtFamK0bVZwZHiIrTSWLnxNONeOMACzAPz2WAOfHQg6iYRBTqYCHcbAylcfvZEjaTfajNTHIJuSedQ_U_D5oHcSCyug5DjqFIgzxwch9fagw0PQsvpfsNiZglzCOVnAqiZwEtSxB59ztDUlQwLOa6RoB0XM14eaaQItVebjgl385Gi5S1TvWjwJLlXiZBppSDn4DnXPdq0fl9ak0kuiqjla0W9eemxWtS9X-l8ov1F2XsUJTppYr0-l0L7Mjr2gEA2wc4leStDe2ok6WFGqnpK0V5_dHrMvXMTSxskcBMKaYs-SwO-0z8UQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/78"><img src="https://cdn4.telesco.pe/file/JBsm-XwUCGRHQah7JgdDjylGRTW4yHoshd-dYnblHlbdifdCMV31r7tuGy5qOOytl60OEWMd9HuC6dRjbd17xqHr95ijhTSyLirQUFp9gOYzKVadKSRs8ccOUNW70ziWY_x4FyvfW-pIGH0E9ftFu_HimpTqh7k6NIdoNW-hou98_MzsT1oIGxlFA-dW2P_GERfx2yIr9-nVTB2QVBRNh459aA582frVDskjvyT1jHJevDiXnXbi2JYMSf8DMtzORiVVuQnSGprKlLfdgBWn--6uAFCuE8iOEAXsbf6Etne826TodmuDxmcvCUbLY3ZIVPkTOSLJYfkhNJ7_Kqnssg.jpg" width="100%" /></a>
 <p><b>В Монголии, в пустыне Гоби, строят лагерь, где туристы смогут прожить «как на Марсе». Проект называется MARS-V — и...</b></p>
 <a href="https://t.me/moyroadmap/78">Read more &rarr;</a>
 </td>
@@ -87,7 +87,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/77">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/RAmTVBZLMJ6nwQUym-sdXN_rVHZ5NvTAvNy5w_RlDJ5DDnP-73jELUzUxH4_OBW14kO2rRkcCNMb3Sy_-hl0psQXdwUfP-b4e-oQOuUHvjhoWO_ujBIPR4AyDIxC8LRHOgCHQeuu1NIPP9-Cf5bgE15I4VOQ8GzpPNOoFQbDMv2-X5e1otZCX7m50y8y-a5Be9IoV9mrtguGhqQZypGnrYxTnpVS3DrxJJTRMX-S7hL_FUmPuLVwsskIzcVflMmByLq9VyVZ4zvG98qoPRNUdQ_ZApAVfM1QkzeRGn_0bkXVnB63L3kf2W-_2MmjckA5maSMY9slCZVkA63PruapjQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/76"><img src="https://cdn4.telesco.pe/file/JLC2Ix6mWP2cmlHTN0uWBtJjgUEXErP_d9G2R8-K7-Occuk-1ahWxaezGlGjgh94Dn7PYe45CIuqQxszUfrBYmTu9U_hO0p2W696eUWxXyoO8w6x5Za9CWZ7dj8Gdqa5sGc5AVfuDD9Fh_WQZV-T6OFi1xtHsKgTJJb6m5s2Im-7wkCq7M6T0FhxzY0xoqLO2R7q_lWAVV-d_HinmlsxKrCUB-TwL7ZWwU5gDNm3xm6PKw1HQdEvpNnbmFtzH1dHWvzIfdDUa0ULW7fZkxqsLeUds-_-Mjgxfli_7SEqJWVglA_wewFLIFRKU1cCHqKD2pAoRmGa-M77nibSB3iOOg.jpg" width="100%" /></a>
 <p><b>Ko‘plab startap asoschilari aytishlaricha, hozir ularning loyihani katta qismini Sun'iy Intelekt yozyapti. Dasturchilar...</b></p>
 <a href="https://t.me/moyroadmap/76">Read more &rarr;</a>
 </td>
