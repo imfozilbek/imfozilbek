@@ -69,7 +69,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/B7Ai3o4jMpAcm_riVKJKRlZJcUL7uFskazhsEnO0O4V4Flpx53dzIAC-GIBQ5BKMSIMYjpWHnXYyOx4S8fJIQSszeRCxP35CiijCbzekHPX7YparLUzao6hKAnkk--B7Mzg9-eH3RiUiiznEB-6AHZRNIbPo6eHlUYdmAv2uenKjQz11nSOMYVqtE0ZoKaVs-Ra2sAB9WzystbBStbIxXjWNhk0T3engTQjUnmpaA7NLkqJYJSun1MJFGZXf9OOzj7Ed0V273ZfmO9zMBjs07wl_vcFKdS9qrWv9zdug-OrZogOQ-s3f_HM6Os1awhhujeEHMdjCXKc-GDyS3tLFWg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/ZiqEtsm46MTxr0r9R32mg9beQRvS_V_gQcR3NOXKJ1pph-kn6p7xPNi5fF-tRo8uTBFV9UtOYRiMWzWIDYXweg1Uy5_qx7qr157IQuoVXiUOvFtTYiXFRplw-luHATxFrIom70YHUjgwRGpWbeD_U_g6tmUR5_g0r3-9hGLt4yeiHZ-YIf74JT1OG6dogMdVGWdkKEzAICPiJsaUjVsgmrrOp63lGzpqFUdes08BGWeRMS29LDUum4O1iBs8HxBUghvgAcGi7FdhiWf3JU2e-M78VlmP19btcIpJCWpLbutT-myAUpVmS_OSgHu2EwFNM4yUogfmU2JvN3d4l7mWqQ.jpg" width="100%" /></a>
 <p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
 <a href="https://t.me/moyroadmap/82">Read more &rarr;</a>
 </td>
@@ -80,7 +80,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/QeroM9jG9TocfQXoxjUD4US1JVrstNlJIZ_aUUkIKIiFPdizmL05FXMwvZdpLrA7fCAmBVUTKetzcNwiONMejQqT7yDQQjxqB6NQXXZWcPozGeXh16TIMoRg5MYRLHEbXufVvDfUULD_KmFaqteMxByvWBOeUgJQ5sGO7PrQCHNjd-kHVdxq25fPQH24sUobaVPBYYyeyIfpa-XqBn-mhcmW8lcaQeztDKu6iqEEzwbUZM0DEDDDf6DktyOBWU6iJ3i5JnDqzrd-5pn2pQdPmy2wmEhwFBrAANZgyBjq3dVENwaqB8GXvvsle69-EvUtTufDgJXiqGARxSJAkj6HRA.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/H3Hwhgybdd-fGm69vD8sWxlFgddYgg4TvpeA0Cx92yG8pcU7ucSvtYjrnCQq6SMzT3r3BTKCSLvjPX5K_Knd8LBVeLmTlfItF4WJ10isKqWt87V5U_MvoRy7cK_P5_RX92YNMxSFYUQKTHd0KZtF8613c-JZAndeohQ-iKDE6LqmpE3-6Lr3dbCFjXzDwsTq_fXDkTi5XMVD4DnNbxlpqe9j7otprWRY92Or5rKVV7SEm3Iqzasjus8vbOnf7h8BaGr8LoTs3SbfyEBUT3ZLwAaMR7W8gRrAtroS7nMspPgScC0zOjfA65zmoDOmyCw0hrvM676biGjQmuWe9qunhA.jpg" width="100%" /></a>
 <p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
