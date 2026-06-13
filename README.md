@@ -59,7 +59,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/psiXho4t3mrStrfUAB4gs4gN75YYV_pzGsgCrmPyvI2R5XNivR41-d87pPbLcL4ENy26bRMdQTt1jB2SPAHO02GbtWUqpLlIZMlfN00PSuzeFv2edEH8gdS9gc8by4fy-r9w5jU1cqEvjSVEHV9tLEqB-2J5F_JzR2QZ3XiULZGePNmoT4JXkaHSjWZKokYRenDXt7PNJSyqT-E2QDAyjFhMw7BKpytSmOxCIrXbiJwcwsXYrW38sva8fhyBmJygB1cOwl2xpSXdV_8DiRGCn5nuSS_oazSUKCOVsp-8yr4IBMOJ1wa44QY3Kuc39g7FNtyzUqAQwxCsCK8jLoxfZA.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/QpM7KtKYGT76zeVSeLG9sUU0LTY0SrEJeigcTFVy6FEnlUdLmbegb4zYEjvNr61C3p2FmG3LrbBYI5qe_gPkzAf_SjMbbIWnuI8EnkxB1j-W5rctmLleVr5mLli85_9flgmE830r1DOdAajS7_gUynUIPrjHxncHmNgZjMRpXHU3jt4mlJal9Gi8lvvUfIJuKoHz4GNwsqIYflTQSjFtpM8x9cGGeCvLHzb93Zy7eSzHbnJ4tVc8MFjvVYGmFju8mTaAERzIqomG3igIVutqmQb2DiHRWUxdvuoHBgjCUslAsGDtPfeNFVzWXJtaE__f2jz40KkienPPahaS1DCRmA.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
@@ -85,7 +85,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/sknCcf1sd6HPDDLlzIOrq7Rq7JQmj-SdeVPWpvT5RQzFJoQj5xOTyytZkV4fxM8ndMbk0mWi-Xba5bV9NoN0L_2aZ2E31rfFSuSVGi6p271JIOVByb7UZ3sYuSKBhtbtiWpgjp53oyyL-V9NMAtwwNGbkcnsRHXAuUs5MqxK4pPVkBtjalcBoi1p60hdrTWm7G96d_RNnCmA7aJUnkWHhYQ3JQwHYV1QkYEX6Ynsxu8L9txHZnKEtHGvzfTymkieJIR-6iAQuoRr4CtMbHRytRirX7kuLuQKtat9D2kstn_vM34ZubK5N1OQcy5-JVL1YKKRH94kCZeqoZehZtTJGw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/79"><img src="https://cdn4.telesco.pe/file/jDSfsTRCiSD-DLh5W4MQKKSazMy6sdFXad86opVPAUj21T6VKZAfyBxVFv4okByUhID-wCzAh113JZVefweJRRKa-IEN4IhTb6Y5T58_uaeXc-20DgSVcWu3W_I_KJRKd9JIbhwPS44vx1ykq4ap7eMlHdyPXwIsurK3wmmmQvHiGuTQzvqNEDQKfwNst9ytZldKXGLcDBLYSWqN7Gi0QlgTMtYjymz6TG7_YSryAFe19IPksIbT5gOnZl5l7KPA-ZabdRnJSfoEB33ynKngW307Zk13FnHjO1XHBvDE-6D1TwFBelmU9qIq3OpIJytqx5AJdVSasvmJLLFTT-XwxQ.jpg" width="100%" /></a>
 <p><b>Почему будущее — за ContextOps-подходом ИИ давно перестал быть просто инструментом — он становится частью процесса. Но...</b></p>
 <a href="https://t.me/moyroadmap/79">Read more &rarr;</a>
 </td>
