@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/NZky2ASgUtQ94QkogeBrgkpeWUJgc8dyLQKVVJBbS_My0-rJMBsbTfvCuRpRt1BmkfqrbcXgtDa11nylY4qhdvTpw73-PMWk16sSjgNWP5rREqRPqcEQ2Mhth4qme4OWwTpK8dP35DmtoHNa8aBa5p7Ul8ky4QOWFrX6ZbNndz406ck-BqvIpUq09CoVQOhc7iA3ylCyq1DSppMiFjsPTK_BUDPa3q1qsBO90q_t8L_nfXuuLf0tFaq10_-GKMMfSKYuwmusZkHjIXUNipfy8_4_FPFG535t0n_S2l0hZq-LnKgBadZlcGKLsPYq-emGWx4V0ljB86kL5Kp0irQX_A.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/GIbkFrrC1cB8r3-xOu2wuEsBeVidUL-5CRhO3iX6K1KGhkIQlhZAuvfuCZrrEoO-DsjydsRvLfxoUtnIn4WAiJKpd5G4wHWPevCOaQZRcIp7HVU8vDMysCX5hKm9wEUfF9yd2FWogISDXirnoA2UA6WbXUPjamvYAfLHcCOCQ8xGY4Ve44EAPnB9AmDQHxKK_FzMvEIAjzq3Y32dj04Vck1hb2VQUNtfq7kcg7p6aB41lsJPR6JKFQ3l0MhEypLbxUila8iFjd1aJzZwBtO-b6QfZ_IhM3MGfUPnjl95j_kyA_x19D9ZbVWMjglcannwmHuF5Pq5wj5zaSiNdxWlWw.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
 </td>
