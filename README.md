@@ -45,6 +45,10 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
+<p><b>Управлять командами я научился раньше, чем управлять своим временем. Планирование, приоритеты, сроки. На работе это моя...</b></p>
+<a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
+</td>
+<td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/ooROdiJdgWlx1BuGZ4bqvF2DFHEKyav2fyAZqZLmjpBpsnS4UVpGGYIwpTVXl-YpDpiUutTke47M0iuk9hvFG80bcGFrR_NYKlz9btd9tbcpogT5RuVnFEqUSMcl5spBARZNxe1HowPaQxZXItumeRszl5f-bjtU6Qv6ordDkAHhp1477GnV5euzGTnn7gJHQhZ1bJwOJsxRc8U8yfN_CRjg1KAEQ4BDIIa18P2o895o05NPH_dniqViQIy1DullapD0CGIOTJ0fC2Vt_anOWsOITRtA_wsXoyWHAO453o599nOnlPnHAgSMwZDWvaIqP0iudXStTPNcYWEggScqTw.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
@@ -53,12 +57,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Продукты не заканчиваются. Заканчивается смелость. Я долго убеждал себя в обратном. «Кто-то уже делает это. Кто-то...</b></p>
 <a href="https://t.me/moyroadmap/89">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <p><b>Если захочешь — ты всегда найдёшь продукт, который делает то же самое что и твой. Причём он уже зашиппен, у него юзеры,...</b></p>
 <a href="https://t.me/moyroadmap/88">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <p><b>Короче, я долго не мог понять одну штуку. Сидишь, пилишь фичу, вроде почти готово, но нет, тут поправить, там...</b></p>
 <a href="https://t.me/moyroadmap/87">Read more &rarr;</a>
@@ -68,13 +72,13 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/CschkOfnrlA9I0uhf9ZMTVO4re4HfxDvrgknYhMw-mJjg9yBL-A2Jsdn3UrdOfQGPLf5DIsAb4sDvscm-pz0gv24ArERq31YDkFkloA7nAgRaxbrC7pI2-Nqk6UUfpd12akwmbnD9xtqqck07T-81rC094u1NTHfcJ4MfWUPIvFKYFi9B-mQygaI_-u-ynKAzjmqpRaOeCavpv2QMsXNN_giU6EBRua71fhfL7pGkNjxexlAOQH5xojB6gUhJe1FdWbzq5zXcrZTzxxytFru08EahKWbcI6wUzFcRfUABoVLhFVziBrd0-QcFniw46Ly_8nP4rJKLQ6rUr6aXzUYFQ.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/frkOQkFRESBV8wcstst47uCknSLruiSvDIhXo2C7Dfflq4axf3lDh0GDTKqu66MyN0FdwJoG1j4piWl9lp6ihL5jBgXOP7sq1gvyevFV7gW4RZnGTA3vV1Ag1ToNA6Cs_2Lbalbh8av_wb2nY-_A5TXWO79_Jij5gsUmxisOHLEZ4aaCVBAIC8IadwO4bgiyKlOaqU55uq22rZJabVX63129M9GjCkwhUPEbemgRh32XxUFnI9DWYNERTzICMrev7QBLiBerOXV_wTaiXtyV5FQ-XATgYfO_x9siDpN6MmYQWsKscNko5LK6mX1ckvaO357LP_1PlJmHbzQaZQQVqQ.jpg" width="100%" /></a>
 <p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
@@ -83,11 +87,6 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <td width="33%" valign="top">
 <p><b>🚀 Payme усиливает инженерный блок и приглашает сильных Senior Backend и Tech Lead инженеров! Если хочешь влиять на...</b></p>
 <a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/80"><img src="https://cdn4.telesco.pe/file/hB77TLNMD-oViatb9mt6wOilXgREdsczPS_bParN6uMxxDgDvR8wrXVZO4uH3OonuLI3ZxJ9NA5j8WyNhEzBBMXAkvaR5BdZV6WuHeQ-ioOes1nVF8FP3VilAZYk9sLcFPOY56fEn8SZd7lMANeEzi-xq8xRBA4TIh1MUhQgFVJ6U1oe0s41AU-AO5mv3L44_GF8Dklw_r5F8YoODOjP9C0T8irIrAfQgiacAiBvR5aY7qKaZBSuvUiSsGTppdxoSHRaoYFU5Xg7i_ohewDvU6qxKrLHBKh6zdki-u80XRdaKlmHFHoV0zKjkzxKOALgEHnc1tqRWFLcEagnotcmqw.jpg" width="100%" /></a>
-<p><b>Мы думали, что обучаем нейросети, а оказалось — это они обучают нас. Недавно Wired опубликовал исследование: люди,...</b></p>
-<a href="https://t.me/moyroadmap/80">Read more &rarr;</a>
 </td>
 </tr>
 </table>
