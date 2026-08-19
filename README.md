@@ -45,6 +45,10 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
+<p><b>Вчера я написал, что две недели буду записывать, что ломает мой день. А сегодня понял простую вещь. После работы далеко...</b></p>
+<a href="https://t.me/moyroadmap/92">Read more &rarr;</a>
+</td>
+<td width="33%" valign="top">
 <p><b>Управлять командами я научился раньше, чем управлять своим временем. Планирование, приоритеты, сроки. На работе это моя...</b></p>
 <a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
 </td>
@@ -53,12 +57,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <p><b>Продукты не заканчиваются. Заканчивается смелость. Я долго убеждал себя в обратном. «Кто-то уже делает это. Кто-то...</b></p>
 <a href="https://t.me/moyroadmap/89">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <p><b>Если захочешь — ты всегда найдёшь продукт, который делает то же самое что и твой. Причём он уже зашиппен, у него юзеры,...</b></p>
 <a href="https://t.me/moyroadmap/88">Read more &rarr;</a>
@@ -67,13 +71,13 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Короче, я долго не мог понять одну штуку. Сидишь, пилишь фичу, вроде почти готово, но нет, тут поправить, там...</b></p>
 <a href="https://t.me/moyroadmap/87">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/RdCzqeIml1bPADoP2LZPIMnhI8jTBAr7m9DcSX88VoYzxX37aE9DEtivsru1Ws-n6ItnbRtpVNDcA0kB9w79T80sHgGzM3_-549WUoZH-cf5nHToVzq6hPMRAdzZIOpA63L17rzcJ-GSITK2o4_o-NBgLsiT864TKxUJms08PSSdlhw7G4F-O9Q2gXswtIObzVG2DYearjKY1M_nyNMK6S--PQ1Y2oZ3kmn67tQSjXT5zy6uLxVSqqT-HVk3LmVQWMPYtqGBuXeV0hMKBlzV5-73PXxHEQ4SG1WZbRPI36kZXNJR7raoy18hji1zEbV6XmxXJB9p6btKwev6kMK2uA.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/Lmj9HNz9duLT4Ts7QwpcBo-RHveTO1PEURu9NX12zolgW88VwrokWj2PDfLtmT_NbVGDDgu5JLmbhikL7DKbWMhXx5adPE-fVbZR4xrYZD1NHSZjxLD7O3YdXGMHF7QPOGBXJC94eH-UJ7rICktt-gx0tUR7m9JeqU4fFaS2a32rYMBr0epuChnqQmV0F4aLzJXNf4JUstSyL9UlJvxM6EbgvMb-MhnDBGgj_Ds90I68s7iWntBhPesab1QCiBofE5YNlGww864aCJeGqfrd-ThzaRgBQbIlWZ6O-C2IUjysE6-hlA06NF3J077LPRUrbk86OiVpkn4Z48KOci3KPQ.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
@@ -83,10 +87,6 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/np7cjGrHQ5u8teLroRIImBwXjGLFYrDidzdtFGKOCpKbTXUepOp7C0sYjvr1fVXMFUSw44Ocl6GAAxJJ8Lihn63YmTnRelp-uIhOzeBADgHqCADHBXyzzgXyhaUPGI91cpmskMIHNhGsrFehuyKs_MX8E8Iass95LR2Rwk_MkYOdG966zRb6duv63OHidAlbEVjty1d53D2pkOnTmlVnuJztPyb3UmUmQdkobfp3Runid-OZiBsydXLcMzi3V_ve5RHDtzJTfIHbytImquITte0iQYrP12WHMGUaFKnAVRyLzpGmNg7NA0MNeWkfMR5JJgcDtyEb3CQUeYgLay2YVg.jpg" width="100%" /></a>
 <p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
 <a href="https://t.me/moyroadmap/82">Read more &rarr;</a>
-</td>
-<td width="33%" valign="top">
-<p><b>🚀 Payme усиливает инженерный блок и приглашает сильных Senior Backend и Tech Lead инженеров! Если хочешь влиять на...</b></p>
-<a href="https://t.me/moyroadmap/81">Read more &rarr;</a>
 </td>
 </tr>
 </table>
