@@ -45,6 +45,10 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
+<p><b>Позавчера уснул в половине первого, встал в 6:30. Вчера уснул в одиннадцать, встал в 6:15. Разница в пятнадцать минут...</b></p>
+<a href="https://t.me/moyroadmap/93">Read more &rarr;</a>
+</td>
+<td width="33%" valign="top">
 <p><b>Вчера я написал, что две недели буду записывать, что ломает мой день. А сегодня понял простую вещь. После работы далеко...</b></p>
 <a href="https://t.me/moyroadmap/92">Read more &rarr;</a>
 </td>
@@ -52,13 +56,13 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Управлять командами я научился раньше, чем управлять своим временем. Планирование, приоритеты, сроки. На работе это моя...</b></p>
 <a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/imUQNEisPKbQyYaEbPVxm5VmzvKqTDpH8ZslteIOkynX9h_IJyE74Uz6EI3MqRdT4w_qMjZZX00mdFOrdcCRMMWNFqfxdCofgqdE4wUkUoojfTbg6Wa19DI6tYpMXRWEd_EFQ5sXGFFchVYUPa8WPZeV3XNrGh5LkVYGJCKK6LuzztIGL4o3aYA6Ix3pGfZvoP60VKthyIEo4GqdkLtuYZ41l6t_dLAWxDOtHl1E-Z8ir3xIkf2Ej_KNIswQ6O-PYC_q5y1xKuT8gXZEsB8X4rRykFLQ1IlvNQV-utVI6IskQjt9NaJFZAvrQPFe7HD2GZhPVZ0M9EB8AAv2OeFF1A.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <p><b>Продукты не заканчиваются. Заканчивается смелость. Я долго убеждал себя в обратном. «Кто-то уже делает это. Кто-то...</b></p>
 <a href="https://t.me/moyroadmap/89">Read more &rarr;</a>
@@ -67,12 +71,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Если захочешь — ты всегда найдёшь продукт, который делает то же самое что и твой. Причём он уже зашиппен, у него юзеры,...</b></p>
 <a href="https://t.me/moyroadmap/88">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <p><b>Короче, я долго не мог понять одну штуку. Сидишь, пилишь фичу, вроде почти готово, но нет, тут поправить, там...</b></p>
 <a href="https://t.me/moyroadmap/87">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/tIAO3Ra0HsNcLNY8UxzRoLOivVyjRO2xouniWx1FQGFFcPvsIUUhQI9BUX2m0JoTIZWmQ7UuIq1s27UoL64gxSUmEcZSd7SrsTBzux71t0FftyXT3WkpeWVe54KGPSZFGtct8epeLKNERNHfyCQiGO19hTdLFrQ-JxvD9P8yie6aL7unCyHo9yblw3u8CnD0WHTZwcae8eD-MsJ7HzEwYeJvj5okHuH6QK2fwWkrffM_nPheC0n4QwOnJjSK6Q8WoX2eK3VO6ne7Yu-EduxeBtZoeHINf6H1sgLBuyEWKXMbNEM4EMGFxFAWI1OE4IC_WEawM0nWS02zzGbfwtnCWA.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
@@ -82,11 +86,6 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/MqbcRsQ8RD4jbHC0qYnEvHtvaLieXXlEZEXqJJy8b5HdyqbJYNZTZW9QMmAaGHEbJbRXsUtybg-4Y3Ozo4YM4Ok_fissqoUVHs9NmMNRN4WxIfo2GfwV0LyDFGuCI1UNn5hE6hkMHNw651cFc41Suc5Q_qPpO0IoQJ6-6ZOSVDkG9Axsk8gU2kFxFZYvieJ1sIzDbQQKTD9s_pjyuFmCKa_Tdlh84wO3WHu5rmSVe7cuur-3oPzuNNagALAbnx4wrwM-9ksg-u1piRN-JLFfw6eKw2zjUG6Ar3XJqOMpDdk6OFOqYAV_f7i2JkkIgFjPGWCV7SEpritW6p6IIjcoDg.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
-</td>
-<td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/82"><img src="https://cdn4.telesco.pe/file/IsYD1ZpAdl2K8out-tZdiWwGkZYxohBHb1_ianpeDGiEvVVLjcCf2-AHrXlgn2CoqzkLvhgRgpUmFNHv6jdNVWBenfluLhqLDCY27DTxoz4gC8aZq3Oj7zl5hg-065eX4LexdbCVqu9hZEjBG8QV7Mq2ZIMGFo_v2KjaKXG6Ka1Kg5kN0Lgc101Jtm9Klqe2kXAa_ILH6yX3rX1yNIYpjESPIQPTz_7x81r8BZ5MOzUNGBisrcq71X8596ibGxFWJq7nR-JtGZZO6X7mFtasHIfuVbDmFaM_9sciSz-F-cSyvJLhGT-A0V3ALtnjlXYJmFI_Sh9ftY6DRbltME0dfA.jpg" width="100%" /></a>
-<p><b>Недавно вышло исследование про прокрастинацию, и в нём есть несколько фактов, которые довольно сильно ломают привычную...</b></p>
-<a href="https://t.me/moyroadmap/82">Read more &rarr;</a>
 </td>
 </tr>
 </table>
