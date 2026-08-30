@@ -78,12 +78,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/87">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/C2ADs2zqh9FCrd6TnDJssEOL78qP8Skw613dW90Dezq2cET3NX7POngRPLiKir310akcBegCHmo_dQKvAEIoVoe6x1hsB_JoKFvgSVZzTWrZfcmn3Oqcy0A5wYpoay6je-nxEZfoCm8AOcHm74lp0Ca6wFGNYKrRDkAjZ7FIz49bgvA2ZCttQpqXKmRV9VPbeh76ppWBFp8VS0y7Bp_RYnyBhyaWeOKMR1VsJn_2-vnVxXfU4STHglfh1sPOqjQfaNCv1yFYPcDI2yR4hNvUgNB6tS5Yj5dQWmNpxp9Br6HrFA-J6CmkM8vPCYX3PoOk1HvNwPWT6E6yH8oc0Yn-RA.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/86"><img src="https://cdn4.telesco.pe/file/I8v51loe2E73hxaEiyn_DyQTCFJO_vUemgvEcBPb6hnfJA1GOGaz-WWNADlqXcBIpvl9uOzazNR4JrPxhP6dJF8jK25w_COzgkvK9_3fBtbUEZcHOa3f_yyIgNbEr9EEokb-s3j04t8VSfN3M1UBLgvJic1nQdjG5X_E7zY9rqekJTpSg_D-QFdv0Pwy4sQFkVo3mxzZLgmn5UMknZUVCCDSQHlRBVqiXGJByEyP5S12LlVcU0HOrr0Y3MBxj0PvH7IIYcV5CCCperTO_Wh9_ijZBoK4U5rJonWA1Uk-11SPpZhgZeqXSMP4xUGYRhNO9ATc-XKZUKVaKud5YihLaw.jpg" width="100%" /></a>
 <p><b>Я посмотрел интервью с Yann LeCun и поймал себя на мысли, что это ровно то, о чём я последние годы интуитивно говорил...</b></p>
 <a href="https://t.me/moyroadmap/86">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/a_utqPnidHd51HfaMVkaVZeMjtphhAfnEVRAF0MDR3eyCxBFE8gyLpFtTD7UPpxL3zgbe5aVPCB7S6KsrlJKbN9rkGPyShJQLkUmPfwwcxmvZWOKyH1cU3fZLjnFCvTtaGi3g8KNlljFttlMCHtXa5Nkp5dpcqHhTbo62fGBP0N33PsuWg1beojCxnJV7WTlchJw2XKrpd0QO97hx79QDpqDLD3l6TIcnzXK2eHnI3eg7OWMRlIWd82HVIS-uzblIbmzyxF-giHHpLL7Z7TXrj9MdGGXXwUNBcp88j40G1LXRqHpZAwI1C6ZUDvh-VUE-A3bcsusmPyMYx4KHaw-rg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/83"><img src="https://cdn4.telesco.pe/file/WSuXVU507Aw7Jk5O51MhlCaB_f3Vh_gOVtNcYARXUyMG7V-OML9rkYdCW-imBH5lG0Rk_MBhz3dNLZMVawKlxH4ddA22cWaAVvWppNWwQ2lErEcr8JzqawIDAzQgTOKAo97Cl-75AR-lzNY2pUaG_cSy_Hf6LX-mEVK83I3DBMtUfBFliOfacEYmbV6w_WcDDHwl5fNoHEC_-n1m0oPT494crX1ocD5oyWDBFGocQdMNvQlXca1lm2OqVT1azKWrd_-T5K-_ohh69zu8WXw6hKJGZ7HWdK4x-qJrHr8UmkCQQtGuwjOSVcaQXCK4duDnMxDiuo6vUFw3t4jTIiSHNA.jpg" width="100%" /></a>
 <p><b>Недавно Stripe рассказали о внутренней системе Minions, и если честно — это выглядит как один из самых сильных сигналов...</b></p>
 <a href="https://t.me/moyroadmap/83">Read more &rarr;</a>
 </td>
