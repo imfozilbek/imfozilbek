@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/I9iuq3C24D9mHHzLg2Q6CIwL-FtnZpZeZstotMW50UQREq4D1dK8Qk30C-Fc9DANN6ev1BDYGFGbjTRlexYB70iUuFfdCejYV05e4bBIzZsIdI4PpEpHF9K4hrhonxhqmDcoZ-bWTl-wh4cBodYlHxF-O_Kr4FXTAtC7nPzTK5_qyyn0SPsJt8lJVTjjDxV63GSk-vf8thJhyarsJdwP3U2Mv8n880y2o9zXODgUDDtuPQ7VXD-Kapw8v2VISg126F43JYVsyrj8U1CtyTIljUYzt2yaVkDUWBzVCCLoSVzYEVBoLGImCYAM-JI-IeZPNVR0XmlRx9eAGVuzxyTT6Q.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/n4h-83cGDQIX_S2L6c6TbIAxjJI4411oQpiIlRFJ2k3mSTNMH4WEx3XOl3Th5_SZvpp9fVnO4ZJgKhVvq-WBzfWnLhtikQLYXgreQuTlz0CEiSauOCnIWJDpOX9yINCe4dXg1h9IPxTK1ppefWIDAiZpo8cZLKGGmNabPyVL4EHQUfUx_GNp3HEtUI0sTpBkeHz6eAppOukP4rvZjCxKu_SjfLMA40VpOwbdH_3vPgyc-KsjtmaUoJDY25bPnbz3Oky6Be1PI0cjdC7H175sSffQT2Olf0wrS2fn6hUaEXiMvs3xFH9RnxLuf1IarHKmPlHt72fMMiWTAxfzLpD_9w.jpg" width="100%" /></a>
 <p><b>На прошлой неделе Uber сократил около десяти процентов штата, по данным Bloomberg это примерно 3 300 человек. В письме...</b></p>
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
