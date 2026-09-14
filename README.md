@@ -50,12 +50,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/NJ5JEpoqaJPstJCak92eAVuhaFx5x5pRXQeTKvJUoPQpCGyGBsnIkfpZUa-woop__xIABHhaHE2xPv5MtCIRWYAnEuYp9b_ZPN5sk4PX5iYyf9nNp_jE0IxmcasmOaIcdyNUH9AVFWGwCBkiqHDTbS_oT_HgnX6IkuNOEL1Ndegc_E_p59ES3LgpNsnrjJkqvCkE1EAP-tf_EsQK0YKkNZrR1-vI6v4cwkGUuDTreAeqT63h0IlqFsT-F5ABpfK-CWrZias8M0WPGdPbm69sefWnZwIA1uXYwQIc-rpuuD53Q1W42pNyTay1lv3mlm3Inm8RiXHpE-9BrYduLW-Hsg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/CEK9OIa53n7_LylS4vwbiXV2P_BzlYic97EAUjjrODzcObfrOL1vWkvZSIHiBEZP_NaLa41J-tjvRem8FhGX6l4QOOS_OHorTgt4Yv_eApc2YsAAQR2QlDjcSna0hAmb4aSwjo9TYOOo6hg_PEjV9uNWjlaVUaz2JVsPjlhiQit1YPfwgA4j1UjFzYwnOHVqXIXV-DB4YDrLWmU2d5B0-kqTW-xrR8Aq7TWVXPdsoPc6AiOZBdg3H7ZUoOfFXhCr6Rh5Np5PGiZDrb7n9S99TSg0p71Bh17P3hC-SIycHacApdW_B44zNcLnYhc-AQBxNjKyYqsM5mj102bQ3peVcQ.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/96">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/qoWajpj6ylpZ7_CJNDzy3Mg35XgsoVpd0gsU17ulFHtzMReYU-JVywtinDg87eLdeO--K4VsmVzlJwL8a7L4SjlLtbxaXWS-oQ4RrRActCnRfna9xdKhW_bPmXz-ePqrtOpilfUqcMcsS1FRLuvTvcQmpip0sLSHPDhVqiWkt2VXmyDcdRAleeGumBw40_opnWm8838T54gD7jLzKfXXupR7eGTLdNBQGEvAogTqjZIYlnWVkk9blFNE_X6_4bNv8S1AvJLW1ioDVXnRXImTjmMWowqsQ9esJObmnuRQMc2a_KnjjvLXRwNlg_arr_zBhDjBXMYk8amJt_Wlp9_vLQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/DLCzyFTIhk5oHOHehwaMH251XkOAfFGRwVFcR7zs3CwyUBLFiQ3SpviK9x_WtcNxFySajDCRVqWaZF8-w6j3iWsLhjoEkX0sKJ1w1-wRtJsYHBGG33s0exc5Bk-ip0EVFPvr87MRxXBMVHuwlKmKIDzdZ0EA0YHBUYRqqJlyOBji_FfO0q5tQihStWBd62b1ksYi1rGc9haKOvPir9Hgg5gJsDc7XnTjTnO1yuYUbUnIvUXDXJMNLCK-BdoZqp7EjTvmlugvxRdD9EGSqLLoIVW_Mtjqatf3qHaCvQBOuqcN7r2m1UHDRyjtfJqG8yn2tOt6mDhOtrbD5frrIT_xSw.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/95">Read more &rarr;</a>
 </td>
