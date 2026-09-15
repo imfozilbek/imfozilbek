@@ -45,17 +45,17 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/nb-GTfc75gmQI8TOLipzxI00Gc39cfVRIDLs0YAhgl4vVBttbpqBeTbi3EyWgvLEcy-5uRL4c4-cQhSqLlw857sf4BY6vdKfI1kin4exbxkWl9cUwtf68iNVctDaeEfHM3-yhOtV10RcPjMXj52wtZR6qqhq2wFkoMOjKcKvxM8tgKz3rOikkQopNUqTD7pWRe8yVyozAUNMZUbihAn98m-6ZCjiSF1f_jBXTmiZ_3eX4N0P29M12flNavgVHLpTqACKpZ8af1A2pCNjKKGzOxY99vedaoOTk1ecuve_dFQ6f6jIqmRAyosaPCM6klRwPQHtPrMaINjFKeoVS89_9Q.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/ldKhB2N2ZhkgNKCEW2LP-M-uX6CEE22xxn-norFPSfq06Kk9CLS4sZYUEWI-qkNHz8gk7m9VM2aPfYdzm3YN9nEDcsbL8Y1hTS9QStO6gazXcLDr4TACLm_Eya6ZsWvgpd8V68YwdkUSYDT6u0xnaZB4Sm4RA1Sa6D7DRxDv57eFzsyMNJot7RA6whVlToJJ5uMSouoGfF5-LQH-8zWRCdjhAcVLZ3CmVRHcJDa6ttrAJONrsA6HyYF1W3Zaqt-xM9-2YZNTejg0ZMXAx6bDyMPZRCp0Q397gBWBw6HQ2_QQSt_qGiUF1sjnbpD-_hGbLREHva3sJR-Mr4qKrxOH8Q.jpg" width="100%" /></a>
 <p><b>На прошлой неделе Uber сократил около десяти процентов штата, по данным Bloomberg это примерно 3 300 человек. В письме...</b></p>
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/CEK9OIa53n7_LylS4vwbiXV2P_BzlYic97EAUjjrODzcObfrOL1vWkvZSIHiBEZP_NaLa41J-tjvRem8FhGX6l4QOOS_OHorTgt4Yv_eApc2YsAAQR2QlDjcSna0hAmb4aSwjo9TYOOo6hg_PEjV9uNWjlaVUaz2JVsPjlhiQit1YPfwgA4j1UjFzYwnOHVqXIXV-DB4YDrLWmU2d5B0-kqTW-xrR8Aq7TWVXPdsoPc6AiOZBdg3H7ZUoOfFXhCr6Rh5Np5PGiZDrb7n9S99TSg0p71Bh17P3hC-SIycHacApdW_B44zNcLnYhc-AQBxNjKyYqsM5mj102bQ3peVcQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/Mcd3CMuyIqB438JHdMjFyMCCz83E_Sd-qNRflzlyK0uZobj5e255W05MZZr8GV_A_vaD3S9-6Rt8qEVAHoJ0Be2KJzdSPvx_td7fE-XYFDOEZU6zw8EJPDAMvmOiP_Jy-lqttCpzo_qvV9mR7udVvTV_4-vyddQSJe9M1fdieVjNKsVrW-UiMAmkA8_VVGTOvRgdDp1pmGVsgh9PSO82E7vwECGvL6JnZmYVDxNQ2qyxrxJCBWd07h12L8l8ieEGkQwCGV4jVVRXN-PPwWFS9xYxlZInWjX-n9H976R6Y1UtfcHiA0dD7tIrD2GA4nZs3SLaMHYV-cFeZL31RwGUSA.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/96">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/DLCzyFTIhk5oHOHehwaMH251XkOAfFGRwVFcR7zs3CwyUBLFiQ3SpviK9x_WtcNxFySajDCRVqWaZF8-w6j3iWsLhjoEkX0sKJ1w1-wRtJsYHBGG33s0exc5Bk-ip0EVFPvr87MRxXBMVHuwlKmKIDzdZ0EA0YHBUYRqqJlyOBji_FfO0q5tQihStWBd62b1ksYi1rGc9haKOvPir9Hgg5gJsDc7XnTjTnO1yuYUbUnIvUXDXJMNLCK-BdoZqp7EjTvmlugvxRdD9EGSqLLoIVW_Mtjqatf3qHaCvQBOuqcN7r2m1UHDRyjtfJqG8yn2tOt6mDhOtrbD5frrIT_xSw.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/RhwAmaUsKdjnwyNrMbZoLKQc__m65LnedRxvTesQ60qIb3L9FEoWdhNobDVqM5T48BRkxT_W0QZz_ApdUOQQLHFNojVgDauYCqJLLH0RDJX9QZ2doXyXgry0IEbxZOl_D7KBjE7KTWjkFOoxL-SC2uhWsw_6i4MRr5XvmiEhhTtPBC64h__drJr7pSfUKzBNF8kxUG22nTw3O033QpOJ5fWnuV7aDmYAPozStfDROxu9qhHIS83cBoaIrau1u8LCFV3i_rkWALF2VCmtjPFOvl_lwibqYZlokFvjZ0pkqzAHrDwhX9PyUtjYqF57VtvXfcdZVRSgsvSocQjn0Y7Lew.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/95">Read more &rarr;</a>
 </td>
