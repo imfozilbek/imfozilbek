@@ -50,7 +50,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/ZTTir0SYrEj7jMsi9kdE5KjEP3AtHOANAN6R6al5yjU78O58xGqO-Sz-pOdaKHITEOsZCbJ1J5yd7qhWAy7Jowm2uplwLAtXMGQpdoGBeAbp4XggQqPCxsFN4SzDT9EByiWTZ6npn9COq1MVE7qadkrpC1id-sHi3I0fK_JmLPzxKsppgry2XHbTjhHsKhCCfD9KsfXSYTcWaO1m0uSxi53FjZlY_0slwyUhir294fdY7rmcRbJNq6BMa_316htqyv6Vd8EiJoMwh4tLN7fMUus6E5vI7P_J9z54qMjhhlFQAsnYld7KG0VDa4Y22e8Mn5xLq3oAgRH0ZE3h7__c2A.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/jA1yQqzwQVJhdm7ZlM0aW7fOCBsK2RvfsJZCGCIt4yADnUumOMY522RsqxUw2WoC7THFEdka3ZPhBZdM3mmwO9wAEueH5g7aIAooS7aTf4-Uqj9bC0CK9wm-jmeabTfI8XhfQ2-K2AGilnAVR4L6z4_S1bHs74GF5-3b1zuBr7DUL5ExutuMbafGidB4YZkvBq11BP855_DUSdKyC79sUusI5yHRwwjfZSjcgCh_Q6ANmcj7bdEJ7WJWtH5HgDSl-a2NA7Aet1LTf3PvXq50ozi-6Bqjppa85vuZc9SdUMQ19qc_wkpU8aiWIcMnoJXoukSEAivVqIMDMzirqvNXeg.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/96">Read more &rarr;</a>
 </td>
