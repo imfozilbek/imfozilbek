@@ -45,22 +45,27 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/Esp0BXTlNS2vOoJPldgTSZuK3OJnYSLE6YtUtBb4ny_uhC9xAxJcb-aJTtwNPSC3EgS70wbiAHxjtbsnj6tW3W_bpBxzkIVNFIm9RTR84PARh4op1kamQEWP7Wl9LQUBbdXrYFODdRKHatw6jyAkWPKRwGT9UZyQw3_7c9vOQheWQc5RqTV-vxzJVsU-63I3vezL6ULs2tjosphCumV2C8JvASP7I_3HRLhgUTRP4AlOmbob7Lx3X5aHvdIjQIwcTQvQTBIa0Q-pBl2BkIbko2nfXMYy5a8bCMVasDOL4qsf7aw_BQgH_sC3eNpvhIy5JsaRPzdm2dSgQAZoE2CCOg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/N7XiLcFM65pnebPL72_PgOz9v5ZUOrPN51YSoO6oUbrjGp2LvMPoKJMC6SPuTnkNQ2x6mrVrzmBJTEDSRIV6rJJ1_CM3RMniw-Lp1HlvUx4L54NTAs_PxP8Ei4rDOZv1Xtp0zytp9vU_8EI7d3buEgPzvPSQTiK24XiDM-cqKt2ByC5_ejkyhdk5pb-4NpOHK244v82vZW6bKGnJvAsIieywYItjslKS3q53i40SZLwWPIvFKrpwGjf-Q0lZIg_6xRrFWuQ5yygahdL_YyuHk3k0O3q95oy627glXsM_lfD3vUXtFMoiPcecbxfPWTN3aKOfHpUiEXlxAtZwLGtXlQ.jpg" width="100%" /></a>
+<p><b>Наконец держу в руках «Новую версию» Андрея Дороничева 📖 До бумажной книги я прослушал аудиоверсию 4–5 раз и прочитал...</b></p>
+<a href="https://t.me/moyroadmap/98">Read more &rarr;</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/mMrLmKQaSww0C6ncETpMnvrT0Xe2fdycJrkErDT3JVCXivrQdHBt8maiDa1ayVCWD0eRN90i2FytJQNBRsabV8Lz2iG3eBbH63C5gWTnOeqAII_1Ie3pj7CkMETi3-2YS-2akhZFbGOEcu6O4653pvdh1uRgD6Ca2nT6HuLHbyn7hOSSgIePf75sI_zADr4RdUs6KltOA2EKucpSptg5rVma42SFNUCCI2J2PzSf8-hwuNlGxkFIiSB6WWu-ttrIGtWpGLJh_j9DnpYRIfh4I5k8auWj6D3-J9LN1oEif6FwiVyU77xo7KOzTp_IerN5qkE65Ji2jgwAh_-bs8gGDw.jpg" width="100%" /></a>
 <p><b>На прошлой неделе Uber сократил около десяти процентов штата, по данным Bloomberg это примерно 3 300 человек. В письме...</b></p>
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/tR_bjqWxOlZOsDC00fceNltBX19pvjJj6Lid17RX-au3fupkue86rlDMcOYy8PXBP65VzJWntPvgtiLh9LTodOhY1wF0ePPE6yS_GtD1g_GDo22t8r7yCDWmnSHbXG3_Jp5OePSJDHDCD0ieFmdbdmB-_FsMQbmWZ5GkHowCHBelA6xZm6jXr3bFWFJbq6PaJmUVnj5FclltyKQVSYBQp7IO28JxfpbVfyda8S8Mb0HkST2hLdkeEer3VSyC27al0kUuU9PvNJKEEPEdvg7Na37yTsA-zc79qIy6D6KzytxOz91OBU7T0OUKfOyx9bSV3mQXpgqlNUEicmYlk4Hfww.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/DgP9Bc3jA6-YQabARCKt_AWQwskNGeMawFCTmCIKeanS7um4iJJII0T60F5bTj1zZAjFXtLsQ6cDG2weHwAlg8ynegHP9SE62ST2lQDeqB6yizlCtiLuK-MwP3PwEIEdRSTLGW50rEjGZn_iCbLJMWi4HpTO1kngz5I2DozH6Hf8MN5Kn7yYGTMlHGQz7mWrDGm-QLsNWGDgVLGmv9WwDjOjBUYZ-MROl-tPL-03JVqgeBoOLC9tbeEyBBIRo8oKZmbmWebTYtjQL7DwUti_EXVCOMhilW0VoTxkMwsQskUPHLJTnMREvonZSTvWx5G8g-aYn6NvQwHOln6fW_YH9g.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/96">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/LdMJmZXgv1czinbarU1RzfuWpFZwNc7GFjJKYTtdW9FTyeT6bdvJ4hR9ewIfG9dRta6Y1-7SsILtEguuAFMs1O97GNb6EqGfnQITZCtPD2fa295Dj6GkRqO-ASixslwJWOGS97qN2iHR0FtEaXSd_y18o4EsiyyRyTtklZBJrDIqi87lrArC2fKiVngicrE6w77RZ59lp-1haexGRSWYFejwApA2ir424BBYKQr8cxXbpvgq12ASKDUeIAllszSblPsGlFaNu5K1aO95yjkooimMaEXNfQl5P9I8QH7hnF1SNZNMI4QCdOGVxI4gQPjQT-P7RdPuT7IssgspvNJeXw.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/95">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <p><b>Позавчера уснул в половине первого, встал в 6:30. Вчера уснул в одиннадцать, встал в 6:15. Разница в пятнадцать минут...</b></p>
 <a href="https://t.me/moyroadmap/93">Read more &rarr;</a>
@@ -69,12 +74,12 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <p><b>Вчера я написал, что две недели буду записывать, что ломает мой день. А сегодня понял простую вещь. После работы далеко...</b></p>
 <a href="https://t.me/moyroadmap/92">Read more &rarr;</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <p><b>Управлять командами я научился раньше, чем управлять своим временем. Планирование, приоритеты, сроки. На работе это моя...</b></p>
 <a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/iDZj5NbkYRo3DVsO93CAMmT3-K7OO75702R7xuASKFl2lygZlP21Pj_MzIIQaopta4NyJHc9JIJnR9fmCoihoxKNMqh4IIShcIscgc8KY6hpah5H4U1bZQTg_4qLxlAlypty3Yz_UWAhTz2SOhAu3mzCeB4e5513qE2mzuZMSf9jEBF32EFIwancIIiy4MQ_qdeieaPT7-IYiOl-t_GbwTEWrCFzvGAbn54e_Zigvm5G38aBM4VJEaaBeublVVqEljDWz_3ad7ppValMVTcbXsqRA8_d-dKswp_YX1rPWhnp_CN9Az6ikMxegC9G4sueFTxW4SttUB3Wml-vX08btg.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
@@ -83,10 +88,6 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <td width="33%" valign="top">
 <p><b>Продукты не заканчиваются. Заканчивается смелость. Я долго убеждал себя в обратном. «Кто-то уже делает это. Кто-то...</b></p>
 <a href="https://t.me/moyroadmap/89">Read more &rarr;</a>
-</td>
-<td width="33%" valign="top">
-<p><b>Если захочешь — ты всегда найдёшь продукт, который делает то же самое что и твой. Причём он уже зашиппен, у него юзеры,...</b></p>
-<a href="https://t.me/moyroadmap/88">Read more &rarr;</a>
 </td>
 </tr>
 </table>
