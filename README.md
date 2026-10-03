@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/N7XiLcFM65pnebPL72_PgOz9v5ZUOrPN51YSoO6oUbrjGp2LvMPoKJMC6SPuTnkNQ2x6mrVrzmBJTEDSRIV6rJJ1_CM3RMniw-Lp1HlvUx4L54NTAs_PxP8Ei4rDOZv1Xtp0zytp9vU_8EI7d3buEgPzvPSQTiK24XiDM-cqKt2ByC5_ejkyhdk5pb-4NpOHK244v82vZW6bKGnJvAsIieywYItjslKS3q53i40SZLwWPIvFKrpwGjf-Q0lZIg_6xRrFWuQ5yygahdL_YyuHk3k0O3q95oy627glXsM_lfD3vUXtFMoiPcecbxfPWTN3aKOfHpUiEXlxAtZwLGtXlQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/FsGNQw0l1bJCDurPbu3eGQ4nuBF5ogAPpPz6gbQeVv7aIGVG5DBH3i_S0eFkBSwiwLJTeUXCo6lh9RjY5RgAkslFfu3tg7vcGAeB4eCz-To3-f-bKubE0j0U87FzY1OJlrzcY3KMl2O5GfftSQP_QPMwERINsN6ulGOb_EmZsQQIWk6V-P8dNsNFkJxYqdTlQbg6iTWeuwb2NBzVoTA-vdzu0VCEr2Nmi9TSwmWc1EgTnjhGksUeTgIGQkPQeRQN7lq_Zk8IxusjrSQyX_QXIK46GFzfFNMb55ikpkadCejz1fG7uEk7jjKXoBaulMEPub6cOkJKLa0xrbCcKMQE8Q.jpg" width="100%" /></a>
 <p><b>Наконец держу в руках «Новую версию» Андрея Дороничева 📖 До бумажной книги я прослушал аудиоверсию 4–5 раз и прочитал...</b></p>
 <a href="https://t.me/moyroadmap/98">Read more &rarr;</a>
 </td>
