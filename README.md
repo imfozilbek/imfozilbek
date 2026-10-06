@@ -45,7 +45,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/CvgWHV92tf9KKWu2etxj8RUN0d0K_zD3CH44vcF8eJgB4dqsMT9bfRyb2DzE53xgH3baB36MvvMZo1PcAdQk3q3B5-ZLy0lg4CjJRzMqzdoJQ3-uCY-v99IylzHe81XsEBH0QNbP6KDnZuueDPtcRC9q4jl2S2i3vDNHN8-LISXAu_qSLcUMBydJsJOxXTLWNlWyLNXvXOyrYt1KbagTheH0OU7OEfqfcK_4thDBDIuEimYGW9S1gcanOMmW7RCMlzMBQMNQI-bbsFDoymQPREeWzi1U6bBZKK5qmyBDGpfJgKj4BjEoYzRLKoqZ0EUGAJnEv9uTbdSCC-cfdVhe8g.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/T2aSUnbpX2My2gAK_DhDC7GWSMK2gq2oLMtDc9XTZXxLykfWLfwncLgsbx-sym8ZMgsdQtJrQmaYbv_CJYKOUr1czAJRZGSMjFENUHFu2hq4pfvVkoAUgxZWDeXmpj1NiTYqQwWEPZn3RE-0s0sUNnPAy-6y4wNrQrdt1BvNybqaC32-ejizM9EXW5LqD-ubCshZ73g9pwiPonmyY7xZnyCQy_ecUI8gSiPGMen5KrtrY3jWv9x1_xxnkA1kDulr3HidZoN8oOIaYgmmPp2bDLRaOyKn2qYG-m8CW9nicOlt_NcVJRM92yr9l5IQBEXiZOXbeAHQb6XD6xCnmFoKyw.jpg" width="100%" /></a>
 <p><b>Наконец держу в руках «Новую версию» Андрея Дороничева 📖 До бумажной книги я прослушал аудиоверсию 4–5 раз и прочитал...</b></p>
 <a href="https://t.me/moyroadmap/98">Read more &rarr;</a>
 </td>
@@ -81,7 +81,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/lAAXNYvX0i89LVM_J1PshOnJU4a2Oj1wxMC9_oTALXERYqig3u2RWLh41RuAXGcgaFwDX4JAyR5T4R3fsxqu3ILMyi_BK7-81D7yNAt4NmGEqaTf9F-4Cu9vV1XK8Ha4bYSLQhTB_cwk_Ku8k_U1FQ8d2l-p1zIXOQqtBu2v5rtb9GDFujdoPClBFXCJXSTd1-e5Ox4CGcISqJkvKZmvz-UTPc4ihiNAjl7B_N75BfXPPLHspJFDHNJpbS3_NA-TyJA7LwJABGUmC0F_jj6l6aSfedNahCG3WnYvqxpi7x62XEhnWxZkmr5zgI4hidBm1g26ISYVXXXwrW2P5l5_AQ.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/mMLxS0uBcncAwzpiiIh6UKsldDQTl8iWseGYAZp9pDuLKR3gHxVddSnOVWmUZnN2vCoMAUXrCGSwAtcP9P9ZOUbs8Qw-7wMTwze1uo3bEV0ERPaGruZt3QA1GZTnUCb6TKue9xZXZCEJMz3AW_nrkEKEdiQXr0ZAD9_X9XnTvBs333DT9_K4kceydyit2hcOwRtVoids9bz5V91w0DBNxD64JJGkw_OC6UoRz5DN0G3i-xL7PxdcdyMDrGmZmIL-KYpAMavDcdyqSqyD9X1EQCioAfC0eojBTTKESta2EarVwThyjwZFB_SCrsUUsWrYpVkCN6bkQriwnwd3AYJzKA.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
 </td>
