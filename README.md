@@ -45,24 +45,24 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/soq2nk8YzKyd6Ou1a4eFaAjelIq0wSvd6dugwTJkQX8_wixwSeRrRcis45qk7hcDvoOi0Q6iPwxI4BcKkibSgseFCaBHRcV1XH0Cso_gF2Tw8E7gtmTjfrmZxO9EMexOOQZ1iCejcmu5qyJu32LxjTfty5fK28zoE6iRft7BT25XRHuey-yzbYKsA6c57bUy10JFsfQL_4GaSEGHG3yEc9-8qpTe1AdibtpJhhyOLTJkiZ_UhfbOdcPdQXwh7hSjLtzPtXxNxIBY7pF2gjGscYn1NUWZQFXS91c8Wfp02ZpFtVwFZYRLtu7XoaIf5zC0QP_sggTyqNK34HTOD0Im6g.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/98"><img src="https://cdn4.telesco.pe/file/Z8MHZC6kQgxVaWhf_yxYy7vk6zlwLZBK187XQ4kuIIhYdMIgGcxzVTXctt9wNVChc6HNgVXBYPVErCECo1Ju2Uo_ou0f6upLWwtBWIACZLoNCqz7-m7fIOE4fzdmrA2iSwgJ4KbnssOqyZoTur1WB-R5dB3BMPqQoX8pawtjjf6JndvtdH6-tdr8wMe03OB_Bw2yCVKW-x__AJ7ZIEi6uf0EOybitMeH0XaeUp4RviNln905ewyodRcL1705Z-MIApLDf7gJNYJY9IJBKKPowTqcjuUzD4vymtdu2P2mEM1mplxYM46ABCPm6m_Zkzo6dTZzL9Vxo6jd9T5oZ-NybQ.jpg" width="100%" /></a>
 <p><b>Наконец держу в руках «Новую версию» Андрея Дороничева 📖 До бумажной книги я прослушал аудиоверсию 4–5 раз и прочитал...</b></p>
 <a href="https://t.me/moyroadmap/98">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/dPJvWKeEJVlwvFdiHjDd-05XG116r3j14dg0FTaBMQTU0ni7LU8GyLN73RP85C27DNmDjj32KppcsJucltDdsy4frWX_U04tTLTdvovqkGloNFbaH0X63i0mPCFgvZKUejv-o5gvard1v3kFq7yaccflTqEz0iRA_iNCdb4zC51sAtUxGxbusPQ_AQ5N3FUuz9z5YKsIaF8q3zq7I4v9fIcVo8xhf8Bv_I-mVfjm31BVYtfyFh-XN16u0f9885SaDlDGgFU9yCpDxPT2av9_vPMje54tvX9tLUUSN0mS_OD44QaoA0JRzOAJFrOf4CZ7a-xCgTW-7QNAdROGke1Ikg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/97"><img src="https://cdn4.telesco.pe/file/U9fz--guYEXfh0GJMmbj4q4_ePYmdBMdTSgp9IQVOwOBZBZd8JeJ4qLCSNsGiWBz5hsH1tuDTREWZ8tpfs-G3FHX2Ox7xAczxHSXtTWNHSJvYkcYtfZJg2GiT0YXJF6WcJk89nOpJitvqt3cG2cYhfV3atmc2cL1Cfdt6ld9FaF_nIFb2egRNw2Z5AbSOe2Qn01i3NlqMR3E3JCZT1L3SpBqaTbzW1W7K_HSqTFR7YkpOjlpQ-OxVrA0Jgsz3axr6egS1ELQC69kqiOVItxExvyGeezmBCsSuozfH3annL0-xreoFF45VHy5GiOvVB18-xbul8l62hns8CqqO1qaPA.jpg" width="100%" /></a>
 <p><b>На прошлой неделе Uber сократил около десяти процентов штата, по данным Bloomberg это примерно 3 300 человек. В письме...</b></p>
 <a href="https://t.me/moyroadmap/97">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/ZfcptHzjt7DiBP-wbXUemTkpDr7fX-R7qL2A9jOkfno_YkJKvldDr6wDYdrMr6dWIqhGU7Qrd3_bSXgp_hWagWJDBfUyKa2faGsPpU3uYuDP-4zZhw3JTEF26LHzNpzZ6zVyjdSIK6B4eAFv2YFJ2cUWYA7ns34u6hewAerVGhCgZ9nCRGkVLZonYfjUPv6dgI6FJpM_oHBI2uxWEm-ck5zMlwNV926dwfiQ3sfIQqGIYL96kPUm8HchCRed1Cc0gqvirDZ0rfjF_D3ZmoN11UkfVSmlMnmDvLgj6nRwNJNGXEmtWnO9T6zKb9daFn5dKLIfMD5a_k4IR9TYov8yow.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/96"><img src="https://cdn4.telesco.pe/file/SC5qsyp6GBwUOzKszpJFYCknmB11L07-UnxuvObWp_TMoFo28Zn3fyasHSXowwIco5earS59vGgaMJoCSv_aoHPFYCxyxwS4AC2CYbwcrVs8aB7ep-wkhni4aXB_GssJD7h1uptPndVd3j0LTHrAOGm4Ca26g_jeZHUoofwq-Rti1UnUy2fD8X8L80JmJ7MqdVmlqjCRiDw-imhwC6qwV9gUxrcPUedegt42PiS8MbMDzXN-WqjipcQqDnJ7_UbY4Rl2W5zWIAS0bHmTPjtAhv581KfZfNQHMTmFi4Q6xOWJ6XM-aF0bxNPWovqq1K0XrnRAxUPU6AYVCbVQRwTZdg.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/96">Read more &rarr;</a>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/HrY5c67ecSE8oB3SYBr2KctsrqrEJ-FoQ-ATXWGR6OEl0mhnXPfzT9_YySTfEM9_N7eyVR-zcxEiB71IOmI1SQyPpzD4Y6RFxPlJ7CZtg1Y8UWCPa8DFFSBOBtFinqhK9kLSl6FrtpdWsCbqKmT44vWWCoAl1UuSy9mHofjOt4hfQCByuB0CET7bZfK-pa_3bOgMDo5nzgUhBYpxm5BT_nbZh2f9-AkMePO9H8e6M306PLBMLjtHawwaBSvTSvs5kpPe6u5fKO493JQfIxcoWSIAmSp58UqTK8V9XBL13mXxhD3w-CY2Vd0nf03BU5y-ajCYzgXYKef2QwhDcz40Fg.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/95"><img src="https://cdn4.telesco.pe/file/UiV9qqTYbKFLMXMRUNyIiUVzsc4OWGbqQswtsEu2IkE4tJMEyZTRSZFCLilKJwEuC4mKSUTRGii7CmvlEBD_wkOo2qmsZEwHg6e9s0KeTQuruS_B4X0YyGpXHGiLbQ5-DjfBd8crGj_IWl6f1io5ksQYZYHRU6X00lsvZMviWNUXQyW7RxQOiB6jI5JxDYbM6v1te2Q6lbIrN6g2OZoGPwcXL8yNr5eV9oTWm-ymP-U15Ayf8ZW5lBbn40Ped5xSBY5Gkx0aRNeaD49XelAI7Z4oxEuvY6KHXrOISU7DBGjYog2FC4HS5e9JHCX3YDR7pbr19V-kE2QqNqYZ0BJDQw.jpg" width="100%" /></a>
 <p><b>Банки смогут обрабатывать внутрибанковские платежи на собственной инфраструктур В Узбекистане банкам предоставляется...</b></p>
 <a href="https://t.me/moyroadmap/95">Read more &rarr;</a>
 </td>
@@ -81,7 +81,7 @@ Engineering leader with 10 years of hands-on development experience. I build and
 <a href="https://t.me/moyroadmap/91">Read more &rarr;</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/I211vsUS6V4c8cXcSjI1Uvuz8WIYzdxzsDr8Giw0smUTulwEHcfUUqxAbNltMIAE3QZkE5IJILdjwnJZGnxRxFgrEa4dEv_oxZlsFFKekQPrho5QD-5bJ9E2VwGT4aUMNBCSLNKG8fE_0brkdaaO1aU7tXmbxctXhxUCun2cCCgatFcxz2y3FrTqtGASFJjE8_0evL1VTzRV-uyV3nH_gmeb_RT2wh1RRhaOaNnljr0HVFvCQlxIrtK0fEurSTdfEGft75xVWkYfesnEYIE9O_HI_mtlIOqFScjWV6aLaNTNEnYMmcRUYWKuuqce0CQMEbWS2ZcIsQqsCCphbUj0ew.jpg" width="100%" /></a>
+<a href="https://t.me/moyroadmap/90"><img src="https://cdn4.telesco.pe/file/vnT-HtJMN7aTGI9otLGIockWT0KqkwIXVUshXXLtPIMC7hx73hZQrULBC6FAs3xJBw8Z6e0xioKutzB7ISoUgzE9pDf1hkTx8Tg1e5gtiMyYgDsieOBtyKzFisLGdNxsiPo7WF8jOO4qvr-iWOPG6fH3rwA4Mjq0Mc3Z0iT_zedJgM9lDs7KrUty1zREpYT7U8tfPX1ECYJejBiZB42EDrp_MMQjxDAQoODkXGzrp3muZL_2pklkleXvkx1hhHqVKQlSArftOQtlilps1n-40B4ihRO0H2mPvjtUJiI5LfNuko0eoJAwUpuMC6Kl_ooRNYS9ylh2s3DMT6w5b52mNA.jpg" width="100%" /></a>
 <p><b>Старые книги покупают сотнями. Зачем? Один продавец старых книг из США рассказал сайту 404 Media странную вещь. Раньше...</b></p>
 <a href="https://t.me/moyroadmap/90">Read more &rarr;</a>
 </td>
